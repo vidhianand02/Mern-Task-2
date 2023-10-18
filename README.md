@@ -1,1 +1,1 @@
-# Mern-Task-2
+# Ethnus-Bootstrap-JavaScript-Tasks
